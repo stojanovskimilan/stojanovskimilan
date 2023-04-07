@@ -12,3 +12,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" height="40" width="40"/>
 
   </p>
+  
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=stojanovskimilan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stojanovskimilan&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stojanovskimilan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
